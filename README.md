@@ -8,19 +8,19 @@ The portfolio showcases my education, technical skills, projects, experience, co
 
 ## 🌐 Portfolio
 
-**Live Website:** Coming Soon
+**Live Website:** https://farzaan-maqbool.github.io/My-Portofolio-Website/
 
 **GitHub:**  
 https://github.com/farzaan-maqbool
 
 **LinkedIn:**  
-Add your LinkedIn profile URL
+https://www.linkedin.com/in/farzaan-maqbool/
 
 **LeetCode:**  
-Add your LeetCode profile URL
+https://leetcode.com/u/farzaan_maqbool/
 
 **Codeforces:**  
-Add your Codeforces profile URL
+https://codeforces.com/profile/farzaan_maqbool
 
 ---
 
